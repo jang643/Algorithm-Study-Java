@@ -4,4 +4,4 @@ algorithm[java]
 2.https://school.programmers.co.kr/learn/courses/30/lessons/12911
 3.https://school.programmers.co.kr/learn/courses/30/lessons/12980
 sql
-1. https://school.programmers.co.kr/learn/courses/30/lessons/59044
+4. https://school.programmers.co.kr/learn/courses/30/lessons/59044
