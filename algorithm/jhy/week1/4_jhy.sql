@@ -1,0 +1,5 @@
+SELECT ANIMAL_INS.name, ANIMAL_INS.datetime from ANIMAL_INS left outer join ANIMAL_OUTS
+on ANIMAL_INS.ANIMAL_ID = ANIMAL_OUTS.ANIMAL_ID
+where ANIMAL_OUTS.DATETIME is null
+order by ANIMAL_INS.datetime
+FETCH FIRST 3 rows only;
