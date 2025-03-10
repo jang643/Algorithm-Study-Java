@@ -1,0 +1,5 @@
+분할 정복 문제 모음
+1. https://www.acmicpc.net/problem/1629
+2. https://www.acmicpc.net/problem/11401
+3. https://www.acmicpc.net/problem/2740
+4. https://www.acmicpc.net/problem/10830
